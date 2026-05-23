@@ -1,0 +1,8 @@
+sqlalchemy
+psycopg2-binary
+python-dotenv
+openai
+tavily-python
+apscheduler
+requests
+beautifulsoup4
